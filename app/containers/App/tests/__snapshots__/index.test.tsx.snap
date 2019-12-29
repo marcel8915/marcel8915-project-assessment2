@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<ForwardRef(styled.div)>
+  <Switch>
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/req-parts"
+    />
+    <Route
+      component={[Function]}
+    />
+  </Switch>
+  <GlobalStyleComponent />
+</ForwardRef(styled.div)>
+`;

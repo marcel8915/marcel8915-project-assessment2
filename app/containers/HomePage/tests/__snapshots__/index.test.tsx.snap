@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should render and match the snapshot 1`] = `
+<div
+  class="sc-bwzfXH cdkBQN"
+>
+  <button
+    class="sc-bdVaJa gWMXHM"
+    style="background: rgb(51, 51, 255);"
+    type="button"
+  >
+    New Request
+  </button>
+</div>
+`;
